@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "winget install --id Git.Git -e --source winget": true
+    },
+    "search.exclude": {
+        "": true
+    },
+    "search.useGlobalIgnoreFiles": true,
+    "search.useParentIgnoreFiles": true
+}
